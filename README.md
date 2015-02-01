@@ -23,4 +23,3 @@ It is NOT intended for piracy and other non-legal uses. It could be used for loc
 - [Source (GoogleCode)](http://code.google.com/p/android-apktool/source/list)
 - [Source (Bitbucket)](https://bitbucket.org/iBotPeaches/apktool/)
 
-# android-apktool
